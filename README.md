@@ -1,3 +1,13 @@
+# Note from me, chovypilled
+This is a fork of <a href=https://github.com/Yink>Yink's</a> Amadeus project, planned to be rewritten in Kotlin. As it was for him, this is just a side project so I might take longer than expected. 
+
+Current aims are:
+- Rewrite EVERYTHING in Kotlin
+- Update for newer Android devices, replacing deprecated features
+- Add support for different screen resolutions
+  
+Everything below is the original project's README.md, as it was on 2024/09/12.
+
 # Amadeus
 A side project that aims to replicate the Amadeus App shown in Steins;Gate 0 for Android.
 
