@@ -1,3 +1,4 @@
+(Redoing this because I had accidentally pushed sensitive info to the previous repo)
 # Note from me, chovypilled
 This is a remake/reimagining of <a href=https://github.com/Yink>Yink's</a> Amadeus project written in Kotlin. As it was for him, this is just a side project so I might take longer than expected.   
   
